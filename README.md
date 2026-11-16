@@ -1,45 +1,42 @@
-<h2 align="left">Hi, I’m Ashutosh Singh, building, breaking, and learning through code</h2>
+## Profile
 
-###
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=ashutoshsingh840&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F146438753%3Fu%3D9ca346b01182f34e654ea4fbb7b9f715383c6d70%26v%3D4" alt="ashutoshsingh840 hero visual" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshutoshSingh840&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AshutoshSingh840&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+**Ashutosh Singh** · Frontend or full-stack engineer
 
-###
+## About
 
-<img align="right" height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png"  />
+> Building useful things and learning in public.
 
-###
+- 📍 Based in **Noida**
+- 👥 **0** followers · **0** following
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+*Small, useful work over vague claims.*
 
-###
+## Stack
 
-<div align="left">
-  <a href="https://www.instagram.com/ashutosh.siingh?igsh=aGdvOG85dGEwaXpz&utm_source=qr"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
- <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/ashutosh-singh-3257b624a/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+`Jupyter Notebook` ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) `Handlebars` `PLpgSQL`
 
-###
+## Signals
 
-<br clear="both">
+<table>
+<tr><td align="center"><b>13</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>25</b><br/><sub>contributions</sub></td></tr>
+</table>
 
+## Projects
 
-###
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=ashutoshsingh840&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F146438753%3Fu%3D9ca346b01182f34e654ea4fbb7b9f715383c6d70%26v%3D4" alt="ashutoshsingh840 projects visual" />
+</p>
+
+## Contact
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=ashutoshsingh840&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F146438753%3Fu%3D9ca346b01182f34e654ea4fbb7b9f715383c6d70%26v%3D4" alt="ashutoshsingh840 social visual" />
+</p>
+
+<a href="https://github.com/ashutoshsingh840">GitHub</a>
+
+<p align="center"><sub>Ashutosh Singh · <a href="https://www.gitskins.com/readme-generator?template=community-abhishek-s-a7r4">Abhishek S</a> template by <a href="https://www.gitskins.com/creators/abhi312k5">@abhi312k5</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>

@@ -10,7 +10,7 @@
 
 > Building useful things and learning in public.
 
-- 📍 Based in **Noida**
+- 📍 Based in **Gurugram**
 - 👥 **0** followers · **0** following
 
 *Small, useful work over vague claims.*
